@@ -55,7 +55,7 @@ public class Pelanggan extends DataPelanggan{
         System.out.println("Nama Kasir \t: Niken Khalilah \n");
         System.out.println("------------------------------------");
         //string
-        System.out.println("toUperrcase\t: " + nama.toUpperCase() );
+        System.out.println("toUpperrcase\t: " + nama.toUpperCase() );
         System.out.println("length\t\t: " + nama.length() );
         System.out.println("equals\t\t: " + hari.equals(jam) );
 
